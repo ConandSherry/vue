@@ -1,0 +1,28 @@
+{
+  "name": "lib",
+  "content": {
+    "./node_modules/bootstrap/dist/js/npm.js": 1,
+    "./node_modules/bootstrap/js/transition.js": 2,
+    "./node_modules/jquery/dist/jquery.js": 3,
+    "./node_modules/bootstrap/js/alert.js": 4,
+    "./node_modules/bootstrap/js/button.js": 5,
+    "./node_modules/bootstrap/js/carousel.js": 6,
+    "./node_modules/bootstrap/js/collapse.js": 7,
+    "./node_modules/bootstrap/js/dropdown.js": 8,
+    "./node_modules/bootstrap/js/modal.js": 9,
+    "./node_modules/bootstrap/js/tooltip.js": 10,
+    "./node_modules/bootstrap/js/popover.js": 11,
+    "./node_modules/bootstrap/js/scrollspy.js": 12,
+    "./node_modules/bootstrap/js/tab.js": 13,
+    "./node_modules/bootstrap/js/affix.js": 14,
+    "./node_modules/vue/dist/vue.common.js": 15,
+    "./node_modules/process/browser.js": 16,
+    "./node_modules/vuex/dist/vuex.js": 17,
+    "./node_modules/vue-i18n/dist/vue-i18n.common.js": 18,
+    "./node_modules/vue-resource/dist/vue-resource.common.js": 19,
+    "./node_modules/vue-router/dist/vue-router.js": 20,
+    "./node_modules/vue-validator/dist/vue-validator.common.js": 21,
+    "./node_modules/underscore/underscore.js": 22,
+    "./node_modules/cookies-js/dist/cookies.js": 23
+  }
+}
